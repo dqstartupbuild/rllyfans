@@ -1,0 +1,71 @@
+# Detailed Project Note: Artist Community Platform
+
+## Project Overview
+
+A Next.js application that enables music artists to build and monetize exclusive communities with their biggest fans through subscription-based access.
+
+## Homepage & Discovery
+
+The domain homepage functions as a community browser where users can:
+
+- Browse and scroll through a list of available artist communities
+- View basic information about each community (title, description, and essential details)
+- **Note:** Non-members cannot see actual community content, posts, or interactions until they subscribe
+
+## User Access & Monetization
+
+### Artist Accounts
+
+- **Free sign-up** for all artists
+- Artists receive subscription proceeds minus a small platform service fee
+- Full control over their community content and engagement
+
+### Fan Accounts
+
+- **Free sign-up** for all fans
+- Access to communities requires a **paid subscription** (monthly or yearly options)
+- Subscriptions are community-specific (per artist)
+
+## Artist Features & Content Sharing
+
+Artists can engage their community through multiple content types:
+
+- **Live streaming** capabilities
+- **Video and image sharing**
+- **Text posts** for updates and announcements
+- **Music sharing** with streaming and download options for members
+- **Audio spaces** (similar to Twitter Spaces) for live audio conversations
+
+## Fan/User Features
+
+Community members can:
+
+- Post to the community timeline
+- Comment on posts from artists and other members
+- Like and interact with content
+- Participate in discussions and community conversations
+- Join artist-hosted audio spaces
+
+## Profile Customization
+
+### Artist Profiles
+
+- Standard music artist profile layout
+- Professional presentation of artist information
+
+### User Profiles
+
+Users can customize their profiles with:
+
+- Profile picture uploads
+- List of favorite artists
+- Personal hobbies and interests
+- Other biographical information
+
+## Technical Stack
+
+- **Framework:** Next.js
+
+-----
+
+*This platform creates a direct artist-to-fan relationship through exclusive, subscription-based communities with comprehensive content sharing and social interaction features.*
